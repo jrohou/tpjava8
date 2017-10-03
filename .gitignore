@@ -4,3 +4,10 @@
 .project
 .settings
 target
+=======
+target
+=======
+/target/
+.settings
+.classpath
+.project
